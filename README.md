@@ -1,4 +1,4 @@
-# Analisis HR IBM: Strategi Mengurangi Attrition dan Meningkatkan Kinerja Karyawan
+# 🚀 IBM HR Analytics: Reducing Attrition & Boosting Employee Performance
 
 ## Project Overview
 Tujuan proyek ini adalah menganalisis dataset karyawan IBM untuk memahami faktor-faktor yang memengaruhi attrition dan kinerja.  
